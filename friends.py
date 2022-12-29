@@ -3,7 +3,8 @@ import json
 import time
 import networkx
 import collections
-token = "569cca61dda3774ce0f2ec604e611f9a8ebdb6ffe61761dc2416bc38b20646b65a1ab3c286bbffcf11bc0"
+
+token must be here
 
 url = "https://api.vk.com/method/friends.getOnline?v=5.103&access_token={}".format(
     token)
